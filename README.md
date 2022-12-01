@@ -42,7 +42,7 @@ Our KIDS token will also be air dropped to all holders on a monthly basis. These
 
 
 
-PUBLIC GOODS FUND
+PUBLIC GOODS FUND:
 
 There are also plans for an international Summer Camp, where children get immersive learning, and a nutritional meal while having a blast. This is just one way we plan to give back to the Community. Check the Summer Camp Proposal for details.
 
