@@ -19,6 +19,7 @@ multiple payout wallets to automate donating to our "Public Goods Funds."
   
   
   
+  
   BRIEF INTRO:
   
   Our concept is simple yet effective.
@@ -26,6 +27,7 @@ Provide a safe environment where kids can learn about Block Chain technology, We
 
 
 <img src="blob:chrome-untrusted://media-app/f7fcd6e0-6af9-4d23-a9f1-49ad451eb072" alt="image2.jpg"/>![image](https://user-images.githubusercontent.com/109096522/204977104-a3d42004-33df-4d83-9935-263988069d68.png)
+
 
 
 OVERVIEW:
@@ -42,9 +44,11 @@ Our KIDS token will also be air dropped to all holders on a monthly basis. These
 
 
 
+
 PUBLIC GOODS FUND:
 
 There are also plans for an international Summer Camp, where children get immersive learning, and a nutritional meal while having a blast. This is just one way we plan to give back to the Community. Check the Summer Camp Proposal for details.
+
 
 
 
@@ -52,6 +56,7 @@ THE NUMBERS:
 
 Through a Series of NFT drops, My Kids NFT seeks to fund blessings for many generations to come.
 Starting with Our Genesis Collection of 5k Hybrid NFTs, priced at roughly 0.035 eth / $40 USD. Which is low enough for most people, from all walks of life, worldwide to afford. It is actually less than the average price for a family of 4 to eat at McDonald's.  We did this strategically to ensure that all children can be included in this community.
+
 
 
 
