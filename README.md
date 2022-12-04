@@ -23,6 +23,12 @@ multiple payout wallets that can automate donating to the Optimism Public Goods 
   NiftyKitApp with thier amazing and generous creators pass on Optimism will also be our choice for Minting Reward NFTs that will be given away as Prizes.
   
   
+  # Our Metaverse Space
+  This one is General Access / Open to Public: 
+  https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=1538196779924779088  
+  
+  
+  
   # BRIEF INTRO:
   
   Our concept is simple yet effective.
@@ -46,6 +52,11 @@ Even better, we have added an NFT Rental Marketplace! Here kids can learn and ea
 However, that is only part of the community at MKN. We also provide many free, fun activities where kids can partake even without ownership! There are also many chances to win a free My Kids NFT. Holders do have added perks, our NFT's are intended to be a users' access to the "VIP" metaverse, and holders only areas within the community, but there is still plenty of free goods, and we welcome everyone to come join the family.
 
 Our KIDS token will also be air dropped to all holders on a monthly basis. These are in house utility tokens, that are redeemed towards many rewards that are added often through collaborations and more.
+
+
+
+# Our Discord
+https://discord.gg/7metuCGNdS
 
 
 
