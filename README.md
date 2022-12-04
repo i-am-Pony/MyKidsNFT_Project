@@ -82,6 +82,13 @@ MyKidsNFT
 NFT sample can be seen on Open Sea at:
 https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1
   - this one was minted using our KIDS token
+
+PubliGoodsFund
+0xf7d7fC2afA1F84CF60228c471C0202DA8f3d1a2A
+
+Redeem
+0x76835799714CdE26d0e4cA12AB25Cf9f5Bd7Eb92
+
   
 All of our code comes with notes so anyone interested can use it / learn.
 We hope you enjoy looking through this repository, and if you have any questions, just reach out.
