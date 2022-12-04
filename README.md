@@ -79,6 +79,9 @@ In brief, My Kids NFT seeks to set a higher standard for utility and value withi
 Help us make a difference. Support our project, and give kids a boost to get started ahead in the right direction.
 
 
+# Memes
+Here is a link to our meme war room, where we have posted many of our favorite memes created for My Kids NFT during this hack.  https://discord.com/channels/1045028658684895372/1045028661620904066
+
 
 
 These contracts were written for, and tested on the Optimism Goerli TestNet
