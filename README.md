@@ -41,7 +41,7 @@ BRIEF INTRO:
 
 Our concept is simple yet effective. Provide a safe environment where kids can learn about Block Chain technology, Web 3, AI, and all of the other aspects of the space. Through the use of NFTs, and the Metaverse, we seek to engage their minds and inspire thier creativity.
 
-<img src="https://media.discordapp.net/attachments/1045028659037216861/1049006246751121508/Screenshot.jpg?width=1343&amp;height=635" alt="Image"/>![image](https://user-images.githubusercontent.com/109096522/205504663-0f546e05-9a47-4f4d-a961-12ea8a3f4607.png)
+<img src="https://media.discordapp.net/attachments/1045028659037216861/1049006246751121508/Screenshot.jpg?width=1343&amp;height=635" alt="Image"/>
 
 
 OVERVIEW:
