@@ -1,15 +1,16 @@
 # MyKidsNFT_Project
 
 THE CODE:
+My Kids NFT has a collection of smart contracts working in unison to bring together a complete project.
+    - Our Main minting dapp, it can be payed in multiple crypto including any ERC20. These can be added, or quantity can be changed after deployment. This contract is pauseable for safety, and updating.  etc. There is also a withdraw funtion that allows multiple payout wallets for charity / multiple contributors.
 
-My Kids NFT has a collection of smart contracts working in unison to bring together a complete project. We are focused
-on user experience, since our target audience is families and children. 
+We are focused on user experience, since our target audience is families and children. 
 1) Our first contract is a super easy ERC20 token "MyKidsToken.sol" or KIDS
-2) Our main contract "MyKidsNFT.sol" consists of a minting function that is payable in multiple Tokens so we can 
+2) Our main contract "MyKidsNFT.sol" consists of a minting function that is payable in multiple Crypto so we can 
 incorporate and onboard more people to the Optimism blockchain. It also adds the capablity of using our KIDS token or 
-any ERC20 Tokens from our partners / collaborators. This contract also contains a withdraw function with
-multiple payout wallets to automate donating to our "Public Goods Funds."
-3) A contract for donating only, which is split with Optimism to make all donations automatically shared to Optimism for their "Public Goods Fund."
+any ERC20 Tokens from our partners / collaborators. The contract is pauseable for safety, and updating. This feature can also be used as a way to implement White List, Public sale. This contract also contains a withdraw function with
+multiple payout wallets that can automate donating to the Optimism Public Goods Fund, pay multiple contributors,and more.
+3) There is a contract for donating only, which is split with Optimism to make all donations automatically shared to  their "Public Goods Fund."
 4) Redemable allows KIDS to turn in thier earned token for a "Rentable" NFT, that is air dropped to the respective addresses.
 5) through 7) Enable users to place thier NFT for rent, allowing Kids to learn even more valuable skills.
   -- 5) IERC4907 Acts as an interface  for communication with 
@@ -69,7 +70,18 @@ Help us make a difference.  Support our project, and give kids a boost to get st
 
 
 
+
 These contracts were written for, and tested on the Optimism Goerli TestNet
- 
+
+MyKids Token (KIDS)
+0x32DA22129A7A1cC1cdd595ca410970A1ADe275e6
+
+MyKidsNFT
+0x96bD02aBAe450090c1E06E511854760B61380CD3
+
+NFT sample can be seen on Open Sea at:
+https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1
+  - this one was minted using our KIDS token
+  
 All of our code comes with notes so anyone interested can use it / learn.
 We hope you enjoy looking through this repository, and if you have any questions, just reach out.
