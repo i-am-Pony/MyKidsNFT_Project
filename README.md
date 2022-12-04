@@ -23,18 +23,21 @@ multiple payout wallets that can automate donating to the Optimism Public Goods 
   NiftyKitApp with thier amazing and generous creators pass on Optimism will also be our choice for Minting Reward NFTs that will be given away as Prizes.
   
   
-  BRIEF INTRO:
+  # BRIEF INTRO:
   
   Our concept is simple yet effective.
 Provide a safe environment where kids can learn about Block Chain technology, Web 3, AI, and all of the other aspects of the space.  Through the use of NFTs, and the Metaverse, we seek to engage their minds and inspire thier creativity.
 
+
+# Our Website 
+resides currently at https://mommyxme.wixsite.com/mykidsnft while under construction
 
 
 <img src="https://media.discordapp.net/attachments/1045028659037216861/1049006246751121508/Screenshot.jpg?width=1343&amp;height=635" alt="Image"/>
 
 
 
-OVERVIEW:
+# OVERVIEW:
 
 My Kids NFT through its very nature will help onboard kids in a fun way. This will instill a love for the Technology while developing a fundamental understanding of how it works. Through the use of blockchain, the metaverse, and fun challenges, kids learn healthy competition for success. These challenges will be games, activities, workshops and other exciting ways to gain points. These points unlock levels and Perks that reward the user for thier hard work. Rewards can range from unlocked levels, badges, token, and even other NFTs wich enhance the ones they already own. These PFP are also thier access to our members only areas within our Discord, Metaverse, events and more. They can earn unlimited token by completing fun learning tasks that help them learn about the space.
 
@@ -46,19 +49,19 @@ Our KIDS token will also be air dropped to all holders on a monthly basis. These
 
 
 
-PUBLIC GOODS FUND:
+# PUBLIC GOODS FUND:
 
 There are also plans for an international Summer Camp, where children get immersive learning, and a nutritional meal while having a blast. This is just one way we plan to give back to the Community. Check the Summer Camp Proposal for details.
 
 
 
-THE NUMBERS:
+# THE NUMBERS:
 
 Through a Series of NFT drops, My Kids NFT seeks to fund blessings for many generations to come. Starting with Our Genesis Collection of 5k Hybrid NFTs, priced at roughly 0.035 eth / $40 USD. Which is low enough for most people, from all walks of life, worldwide to afford. It is actually less than the average price for a family of 4 to eat at McDonald's. We did this strategically to ensure that all children can be included in this community.
 
 
 
-SUMMARY:
+# SUMMARY:
 
 In brief, My Kids NFT seeks to set a higher standard for utility and value within an NFT, to its holders. It simultaneously will help enrich the lives and education of Children through multi faceted venues that will shape our future world leaders.
 
