@@ -19,6 +19,8 @@ multiple payout wallets that can automate donating to the Optimism Public Goods 
   -- 7) "RentMyKidsNFT.sol", one of the 1st ever NFT rentable marketplaces.
   
   
+  We then used NiftyKitApp as a way to Token Gate the VIP area of our Discord and Will be the access to VIP Metaverse Space in Spatial as Well, where holders get a place of thier own as a reward for thier hard work completing challenges, and loyalty.
+  NiftyKitApp with thier amazing and generous creators pass on Optimism will also be our choice for Minting Reward NFTs that will be given away as Prizes.
   
   
   BRIEF INTRO:
