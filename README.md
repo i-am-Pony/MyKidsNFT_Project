@@ -1,5 +1,11 @@
 # MyKidsNFT_Project
 
+---
+
+## <img src="https://media.discordapp.net/attachments/1045028659037216861/1049006246751121508/Screenshot.jpg?width=1343&amp;height=635" alt="Image"/>
+
+---
+
 MyKidsNFT_Project is a collection of AI generated art images sold as NFTS on [Optimism](https://www.optimism.io/) meant to raise funds towards public good causes.
 Our concept is simple yet effective.
 Provide a safe environment where kids can learn about Block Chain technology, Web 3, AI, and all of the other aspects of the space. Through the use of NFTs, and the Metaverse, we seek to engage their minds and inspire their creativity.
@@ -49,8 +55,6 @@ https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=153819677992
 # Our Website
 
 resides currently at https://mommyxme.wixsite.com/mykidsnft while under construction
-
-<img src="https://media.discordapp.net/attachments/1045028659037216861/1049006246751121508/Screenshot.jpg?width=1343&amp;height=635" alt="Image"/>
 
 # OVERVIEW:
 
