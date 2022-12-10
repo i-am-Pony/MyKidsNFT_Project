@@ -13,7 +13,7 @@ Provide a safe environment where kids can learn about Block Chain technology, We
 
 We have also added many innovative features, like an NFT rentable marketplace, that allows users to purchase, sell and rent their My Kids NFT. A Redeem, where you can redeem our KIDS Tokens for NFTs, items and more.
 
-The NFTS are visible in our metaverse [spatial Gallery](https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=1538196779924779088) open for public viewing. and on [openSea](https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1)
+The NFTS are visible in our metaverse [Spatial Gallery](https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=1538196779924779088) open for public viewing. and on [OpenSea](https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1)
 
 Join the Family & Support the Cause today! Come mint your first My Kids NFT on our [website](https://mommyxme.wixsite.com/mykidsnft).
 Just want to Donate? Visit our donation area in the website.
