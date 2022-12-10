@@ -6,15 +6,18 @@
 
 ---
 
-MyKidsNFT_Project is a collection of AI generated art images sold as NFTS on [Optimism](https://www.optimism.io/) meant to raise funds towards public good causes.
+My Kids NFT is a complete project consisting of a collection of smart contracts working in unison, a Public Goods Fund, Community Resourxes, and hybrid art images, incorporating AI and generative art techniques, that were launched as NFTS on [Optimism](https://www.optimism.io/) meant to raise funds, and bring awarness towards public good causes.
+
 Our concept is simple yet effective.
-Provide a safe environment where kids can learn about Block Chain technology, Web 3, AI, and all of the other aspects of the space. Through the use of NFTs, and the Metaverse, we seek to engage their minds and inspire their creativity.
+Provide a safe environment where kids can learn about Block Chain technology, Web 3, AI, and all of the other aspects of the space. While building community and skills to last a lifetime. Through the use of NFTs, and the Metaverse, we seek to engage their minds and inspire their creativity.
 
-The NFTS are visible in our metaverse [spatial Gallery](https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=1538196779924779088) for public viewing. and on [openSea](https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1)
+We have also added many innovative features, like an NFT rentable marketplace, that allows users to purchase, sell and rent their My Kids NFT. A Redeem, where you can redeem our KIDS Tokens for NFTs, items and more.
 
-We are an NFT rentable marketplace deployed on allowing users to purchase, sell and rent their NFT KIDS.
+The NFTS are visible in our metaverse [spatial Gallery](https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=1538196779924779088) open for public viewing. and on [openSea](https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1)
 
-Join us today and mint your first NFT KID on our [website](https://mommyxme.wixsite.com/mykidsnft).
+Join the Family & Support the Cause today! Come mint your first My Kids NFT on our [website](https://mommyxme.wixsite.com/mykidsnft).
+Just want to Donate? Visit our donation area in the website.
+
 
 ### THE CODE:
 
@@ -34,6 +37,7 @@ We are focused on user experience, since our target audience is families and chi
 5. Enable users to place their NFT for rent, allowing Kids to learn even more valuable skills.
 6. we implemented ERC4907 interface, a groundbreaking new Standard that allows the separation of "Owner" from "User" in ERC720 (NFT) contracts
 7. "RentMyKidsNFT.sol", one of the 1st ever NFT rentable marketplaces.
+
 
 ### Bounty Technologyies Used
 
