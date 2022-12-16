@@ -6,7 +6,7 @@
 
 ---
 
-My Kids NFT is a complete project consisting of a collection of smart contracts working in unison, a Public Goods Fund, Community Resourxes, and hybrid art images, incorporating AI and generative art techniques, that were launched as NFTS on [Optimism](https://www.optimism.io/) meant to raise funds, and bring awarness towards public good causes.
+My Kids NFT is a complete project consisting of a collection of smart contracts working in unison, a Public Goods Fund, Community Resources, and hybrid art images, incorporating AI and generative art techniques, that were launched as NFTS on [Optimism](https://www.optimism.io/) meant to raise funds, and bring awarness towards public good causes.
 
 Our concept is simple yet effective.
 Provide a safe environment where kids can learn about Block Chain technology, Web 3, AI, and all of the other aspects of the space. While building community and skills to last a lifetime. Through the use of NFTs, and the Metaverse, we seek to engage their minds and inspire their creativity.
