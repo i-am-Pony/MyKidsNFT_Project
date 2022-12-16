@@ -39,7 +39,7 @@ We are focused on user experience, since our target audience is families and chi
 7. "RentMyKidsNFT.sol", one of the 1st ever NFT rentable marketplaces.
 
 
-### Bounty Technologyies Used
+### Bounty Technologies Used
 
 1. [Optimism](https://www.optimism.io/)
    : We deployed out nft smart contracts on optimism [here](https://blockscout.com/optimism/goerli/address/0x96bD02aBAe450090c1E06E511854760B61380CD3)
