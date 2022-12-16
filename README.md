@@ -34,22 +34,23 @@ We are focused on user experience, since our target audience is families and chi
    multiple payout wallets that can automate donating to the Optimism Public Goods Fund, pay multiple contributors,and more.
 3. There is a contract for donating only, which is split with Optimism to make all donations automatically shared to their "Public Goods Fund."
 4. Redemable allows KIDS to turn in their earned token for a "Rentable" NFT, that is air dropped to the respective addresses.
-5. Enable users to place their NFT for rent, allowing Kids to learn even more valuable skills.
-6. we implemented ERC4907 interface, a groundbreaking new Standard that allows the separation of "Owner" from "User" in ERC720 (NFT) contracts
-7. "RentMyKidsNFT.sol", one of the 1st ever NFT rentable marketplaces.
+ - 5 - 7 Enable users to place their NFT for rent, allowing Kids to learn even more valuable skills.
+5. we used an ERC4907, a groundbreaking new Standard that allows the separation of "Owner" from "User" in ERC standard contracts.
+6. An IERC4907 as an interface to communicate with the ERC4907.
+7. And "RentMyKidsNFT.sol", one of the 1st ever NFT rentable marketplaces.
 
 
 ### Bounty Technologies Used
 
 1. [Optimism](https://www.optimism.io/)
-   : We deployed out nft smart contracts on optimism [here](https://blockscout.com/optimism/goerli/address/0x96bD02aBAe450090c1E06E511854760B61380CD3)
+   : We deployed out nft smart contracts on Optimism [here](https://blockscout.com/optimism/goerli/address/0x96bD02aBAe450090c1E06E511854760B61380CD3)
 
 2. [NiftyKitApp](https://niftykit.com/)
-   : We then used NiftyKitApp as a way to Token Gate the VIP area of our Discord and Will be the access to VIP Metaverse Space in Spatial as Well, where holders get a place of their own as a reward for their hard work completing challenges, and loyalty.
+   : We then used NiftyKitApp as a way to Token Gate the VIP area of our Discord and Will be the access to our VIP Metaverse Space in Spatial as Well, where holders get a place of their own as a reward for their hard work completing challenges, and loyalty.
    NiftyKitApp with their amazing and generous creators pass on Optimism will also be our choice for Minting Reward NFTs that will be given away as Prizes.
 
 3. [openSea](https://www.opensea.io/)
-   : We used opensea for view and building our smart contract. checkout our [collection](https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1) on opensea
+   : We used opensea for viewing and as a secondary market to our NFTs. Checkout our [collection](https://testnets.opensea.io/assets/optimism-goerli/0x96bd02abae450090c1e06e511854760b61380cd3/1) on opensea
 
 # Our Metaverse Space
 
@@ -58,7 +59,7 @@ https://www.spatial.io/s/My-Kids-NFT-6386a86c58fe6900016dc72c?share=153819677992
 
 # Our Website
 
-resides currently at https://mommyxme.wixsite.com/mykidsnft while under construction
+Resides currently at https://mommyxme.wixsite.com/mykidsnft while under construction
 
 # OVERVIEW:
 
