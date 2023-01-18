@@ -96,7 +96,7 @@ Here is a link to our meme war room, where we have posted many of our favorite m
 These contracts were written for, and tested on the Optimism Goerli TestNet
 
 MyKids Token (KIDS)
-0x32DA22129A7A1cC1cdd595ca410970A1ADe275e6
+0xa6884E38DC83BdEbeF38A2D1Eb1dE4443dDeACC0
 
 MyKidsNFT
 0x96bD02aBAe450090c1E06E511854760B61380CD3
